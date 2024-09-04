@@ -1,0 +1,47 @@
+body{
+  font-family: "Roboto", sans-serif;
+}
+
+.container{
+    margin: auto;
+}
+
+input{
+  width: 500px;
+  height: 26px;
+  border-radius: 25px;
+  padding-left: 3ch;
+  left: 120px;
+  margin: 22px 0px 1px;
+  margin-left: 130px;
+}
+img{
+    width: 110px;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    margin: 15px;
+}
+
+.main{
+  margin-left: 18ch;
+  margin-block-end: 4ch;
+  max-width: 600px;
+}
+
+.main span{
+  margin-top: 3ch;
+  display: block;
+  font-size: 13px;
+}
+
+section h2{
+  color: #0487f8;
+  margin-bottom: 1px;
+  text-decoration:none;
+}
+
+section p{
+  margin-top: 0px;
+  font-size: 1.5ch;
+}

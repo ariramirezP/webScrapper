@@ -1,0 +1,23 @@
+.container{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+    margin-inline-end: 3px;
+    padding: 5px 19px;  
+    border-radius: 4px;
+}
+
+input{
+    width: 400px;
+    border-radius: 25px;
+    height: 30px;      
+    margin: 5px;  
+    padding-left: 3ch;
+}
+
+img{
+    width: 225px;
+}
